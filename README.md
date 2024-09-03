@@ -1,4 +1,4 @@
-# AIIG-2024-Fall
+# AIIG-2024.9-Fall
 2024 Fall events held by NYUSH AI Interest Group
 
 ## Call for Speakers
