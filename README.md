@@ -1,15 +1,26 @@
 # AIIG-2024.9-Fall
 2024 Fall events held by NYUSH AI Interest Group
 
+
+
+## Schedule
+
+Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZGZkOGNkM2JiMWM5NzViZDU1YjVkYzQyMWJkZDQwMGFjYWJkZWVkMGQzMWRmNGRjMTlkOTNhYjNmZDNlYzJjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) to stay updated with our events. (NYU Students Only)
+
+**Incoming**
+|Date|Time|Type|Topic|Speakers|Place|
+|:--|:--|:--|:--|:--|:--|
+|9.24|7-8pm (CST)|Seminar|2024 Fall Kickstart|Yuliang (Michael) Kang, Yufeng (Felix) Xu, Xin (Tony) Teng, Yuanhe (Ricercar) Guo|Qiantan W934|
+
+**Past Events**
+|Date|Type|Topic|Slides|Recording|Extra Resources|Speakers|Place|
+|:--|:--|:--|:--|:--|:--|:--|:--|
+|/|/|/|/|/|/|/|/|
+
 ## Call for Speakers
 We are actively seeking speakers to present their papers at our upcoming seminars. If you have valuable insights in AI-related research and would like to share your work with our community, we encourage you to reach out to us. Speakers of all academic levels are welcome. 
 
 (Our emails could be found in the [Organizers](#organizers) section below)
-
-## Schedule
-|Date|Type|Topic|Slides|Recording|Extra Resources|Speakers|
-|:--|:--|:--|:--|:--|:--|:--|
-|TBD|Workshop|Kickstart for 2024 Fall Events|TBD|TBD|TBD|TBD|
 
 ## Organizers
 - Yuanhe (Ricercar) Guo, NYUSH co25, [yg2709@nyu.edu](mailto:yg2709@nyu.edu)
