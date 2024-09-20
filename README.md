@@ -12,10 +12,9 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 |:--|:--|:--|:--|:--|:--|
 |9.24|7-8pm (CST)|Seminar|2024 Fall Kickstart|Yuliang (Michael) Kang, Yufeng (Felix) Xu, Xin (Tony) Teng, Yuanhe (Ricercar) Guo|Qiantan W934|
 
-**Past Events**
+<!-- **Past Events**
 |Date|Type|Topic|Slides|Recording|Extra Resources|Speakers|Place|
-|:--|:--|:--|:--|:--|:--|:--|:--|
-|/|/|/|/|/|/|/|/|
+|:--|:--|:--|:--|:--|:--|:--|:--| -->
 
 ## Call for Speakers
 We are actively seeking speakers to present their papers at our upcoming seminars. If you have valuable insights in AI-related research and would like to share your work with our community, we encourage you to reach out to us. Speakers of all academic levels are welcome. 
