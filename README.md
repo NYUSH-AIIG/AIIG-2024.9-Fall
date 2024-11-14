@@ -9,6 +9,7 @@ Subscribe to our [AI Interest Group Events Google Calendar](https://calendar.goo
 **Incoming**
 |Date|Time|Type|Topic|Speakers|Place|
 |:--|:--|:--|:--|:--|:--|
+|11.15|10:00-11:00am (CST)|Seminar|Efficient LLMs|Jinhong (Jason) Xia|Qiantan W934|
 
 **Past Events**
 |Date|Time|Type|Topic|Slides|Recording|Extra Resources|Speakers|Place|
